@@ -36,6 +36,11 @@ remove: 코드 파일이나 폴더를 삭제
 
 ##### Part01
 
+- [x] [변수](./part01/04.variables.md)
+- [x] [표현식과 문](./part01/05.expression.statement.md)
+- [x] [데이터 타입](./part01/06.dataType.md)
+- [x] [연산자](./part01/07.operator.md)
+
 ##### Part02
 
 ##### Part03
