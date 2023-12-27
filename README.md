@@ -43,6 +43,11 @@ remove: 코드 파일이나 폴더를 삭제
 
 ##### Part02
 
+- [x] [제어문](./part02/08.control.statement.md)
+- [x] [타입변화와 단축평가](./part02/09.typeChange.shorthand.md)
+- [x] [객체 리터럴](./part02/10.object.literal.md)
+- [x] [원시값과 객체의 비교](./part02/11.primitive.object.md)
+
 ##### Part03
 
 ##### Part04
