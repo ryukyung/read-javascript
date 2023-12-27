@@ -50,6 +50,9 @@ remove: 코드 파일이나 폴더를 삭제
 
 ##### Part03
 
+- [x] [함수](./part03/12.function.md)
+- [x] [실행 컨텍스트](./part03/23.execution.context.md)
+
 ##### Part04
 
 ##### Part05
